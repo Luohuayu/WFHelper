@@ -173,11 +173,11 @@ class Server:
         async with websockets.serve(
             self.handler,
             "0.0.0.0",
-            8080,
+            8081,
             process_request=self.requestHandler,
             ping_interval=None,
         ):
-            Log.info("服务器启动完成 - http://localhost:8080")
+            Log.info("服务器启动完成 - http://localhost:8081")
 
             await self.mainLoop()
 
