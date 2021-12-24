@@ -330,6 +330,20 @@
       "area": [135, 60, 590, 110],
       "actions": [{ "name": "click" }, { "name": "delay", "args": [1] }],
       "text": "离开加速"
+    },
+    {
+      "name": "掉线",
+      "path": "diaoxian.png",
+      "area": [250, 765, 470, 825],
+      "actions": [{ "name": "click" }, { "name": "delay", "args": [1] }],
+      "text": "点击OK"
+    },
+    {
+      "name": "登录",
+      "path": "denglu.png",
+      "area": [275, 110, 420, 140],
+      "actions": [{ "name": "click" }, { "name": "delay", "args": [1] }],
+      "text": "自动登录"
     }
   ],
   "铃铛": [
