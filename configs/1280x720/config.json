@@ -323,6 +323,13 @@
       "area": [635, 285, 675, 330],
       "actions": [{ "name": "click" }, { "name": "delay", "args": [1] }],
       "text": "点击刷新"
+    },
+    {
+      "name": "离开",
+      "path": "likai.png",
+      "area": [135, 60, 590, 110],
+      "actions": [{ "name": "click" }, { "name": "delay", "args": [1] }],
+      "text": "离开加速"
     }
   ],
   "铃铛": [
