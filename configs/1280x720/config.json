@@ -325,18 +325,18 @@
       "text": "点击房间1"
     },
     {
-      "name": "刷新",
-      "path": "lingzhuzhan1-1.png",
-      "area": [635, 285, 675, 330],
-      "actions": [{ "name": "click" }, { "name": "delay", "args": [1] }],
-      "text": "点击刷新"
-    },
-    {
       "name": "确认",
       "path": "queren.png",
       "area": [385, 800, 865, 855],
       "actions": [{ "name": "click" }, { "name": "delay", "args": [1] }],
       "text": "点击是"
+    },
+    {
+      "name": "刷新",
+      "path": "lingzhuzhan1-1.png",
+      "area": [635, 285, 675, 330],
+      "actions": [{ "name": "click" }, { "name": "delay", "args": [1] }],
+      "text": "点击刷新"
     },
     {
       "name": "掉线",
