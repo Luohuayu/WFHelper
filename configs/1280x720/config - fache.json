@@ -278,14 +278,14 @@
     {
       "name": "发车",
       "path": "fache.png",
-      "area": [260, 900, 460, 940],
+      "area": [280, 850, 460, 940],
       "actions": [{ "name": "click" }, { "name": "delay", "args": [2] }],
       "text": "开始发车"
     },
     {
       "name": "发车2",
       "path": "fache2.png",
-      "area": [260, 900, 460, 950],
+      "area": [280, 850, 460, 940],
       "actions": [{ "name": "click" }, { "name": "delay", "args": [2] }],
       "text": "开始发车"
     },
