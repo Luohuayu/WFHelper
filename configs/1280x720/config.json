@@ -290,6 +290,13 @@
       "text": "发车完成，离开房间"
     },
     {
+      "name": "确认",
+      "path": "queren.png",
+      "area": [385, 800, 865, 855],
+      "actions": [{ "name": "click" }, { "name": "delay", "args": [2] }],
+      "text": "点击是"
+    },
+    {
       "name": "新人物",
       "path": "new-character.png",
       "area": [150, 1090, 300, 1170],
@@ -323,13 +330,6 @@
       "area": [560, 530, 610, 610],
       "actions": [{ "name": "click" }, { "name": "delay", "args": [1] }],
       "text": "点击房间1"
-    },
-    {
-      "name": "确认",
-      "path": "queren.png",
-      "area": [385, 800, 865, 855],
-      "actions": [{ "name": "click" }, { "name": "delay", "args": [1] }],
-      "text": "点击是"
     },
     {
       "name": "刷新",
